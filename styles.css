@@ -1,0 +1,81 @@
+h1{
+  margin-bottom: 0;
+  margin-top: 0;
+  color:#11235A;
+  font-size: 625%;
+  font-style: italic;
+  font-family: 'Bungee Spice', sans-serif;
+}
+p{
+  margin-top: 0;
+  color:#11235A;
+  font-size: 2em;
+  font-family: 'Lemon', serif;
+}
+body{
+  margin: 0;
+  text-align: center;
+ font-family: Arial Narrow,Arial,sans-serif;
+ background-color: #AAD9BB;
+}
+.firstdiv{
+  background-color: #AAD9BB;
+  margin: 0;
+  position: relative;
+}
+.img-ravi{
+width: 200px;
+text-align: left;
+}
+.hello1{
+  font-size: 3em;
+    color: #11235A;
+}
+.image1{
+  width: 200px;
+
+}
+.image2{
+  width:200px;
+}
+.heading3{
+  font-size: 5em;
+  font-style: italic;
+    color:#11235A;
+}
+.heading2{
+  font-size: 2em;
+  color: #597E52;
+
+}
+.heading1{
+  font-size: 2em;
+  color: #597E52;
+
+}
+.lin1{
+  font-size: 2em;
+}
+.get1{
+  font-size: 5em;
+  font-style: italic;
+  color:#11235A;
+
+}
+.p12{
+  font-size: 2em;
+  color: #597E52;
+}
+.cloud1{
+  margin-left: -60%;
+  margin-top: 20px;
+
+}
+.cloud2{
+  margin-right: -60%;
+  margin-top: -90px;
+}
+.mountain{
+  align:center;
+  margin-top: -200px;
+}
